@@ -1,0 +1,8 @@
+[93m[ Loading config file for the bird view transformation ] [0m
+[92m Done : [ Config file loaded ] ...[0m
+ - faster_rcnn_inception_v2_coco_2018_01_28 [0]
+ Please select the number related to the model that you want : [93m [ Loading the TENSORFLOW MODEL ... ][0m
+***************detection graph <tensorflow.python.framework.ops.Graph object at 0x7f153dadc050>
+[92mDone : [ Model loaded and initialized ] ...[0m
+ - PETS2009.avi [0]
+Enter the exact name of the video (including .mp4 or else) : Prompt the size of the minimal distance between 2 pedestrians : 
